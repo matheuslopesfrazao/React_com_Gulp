@@ -1,0 +1,25 @@
+{
+  "name": "react_com_gulp",
+  "version": "1.0.0",
+  "description": "Curso de React com Gulp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "matheuslopesfrazao@outlook.com"
+  },
+  "keywords": [
+    "react",
+    "gulp",
+    "curso"
+  ],
+  "author": "Matheus Lopes Frazão",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-concat": "^2.6.1",
+    "gulp-react-easy": "^0.1.9",
+    "gulp-rename": "^1.4.0"
+  }
+}
